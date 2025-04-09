@@ -17,8 +17,6 @@
     <ul>
         <li>💻 CS Engineer | 🎬 Editor | 🎨 Graphic & Logo Designer</li>
         <li>🌐 Portfolio: <a href="https://bento.me/themacbookguy">BN Pati</a></li>
-        <li>💫 Spreading dopamine since 3rd Nov '05</li>
-        <li>💪 Strong | 💙 Single | 🔥 Dedicated</li>
     </ul>
     <h2>Features</h2>
     <ul>
